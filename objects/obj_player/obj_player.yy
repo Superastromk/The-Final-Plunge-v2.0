@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player_run",
-    "path":"sprites/spr_player_run/spr_player_run.yy",
+    "name":"spr_tier1_walk",
+    "path":"sprites/spr_tier1_walk/spr_tier1_walk.yy",
   },
   "spriteMaskId":null,
   "visible":true,
