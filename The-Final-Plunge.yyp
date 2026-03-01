@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":2,
+  "defaultScriptType":0,
   "Folders":[
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"backend","folderPath":"folders/Objects/backend.yy","name":"backend","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -46,18 +46,12 @@
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"obj_enemy_spawner","path":"objects/obj_enemy_spawner/obj_enemy_spawner.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
-    {"id":{"name":"obj_game_controller","path":"objects/obj_game_controller/obj_game_controller.yy",},},
-    {"id":{"name":"obj_level_controller","path":"objects/obj_level_controller/obj_level_controller.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},},
     {"id":{"name":"obj_sword","path":"objects/obj_sword/obj_sword.yy",},},
     {"id":{"name":"obj_test_message","path":"objects/obj_test_message/obj_test_message.yy",},},
-    {"id":{"name":"obj_transition_manager","path":"objects/obj_transition_manager/obj_transition_manager.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_xp_orb","path":"objects/obj_xp_orb/obj_xp_orb.yy",},},
-    {"id":{"name":"rm_gamemover","path":"rooms/rm_gamemover/rm_gamemover.yy",},},
-    {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
-    {"id":{"name":"rm_victory","path":"rooms/rm_victory/rm_victory.yy",},},
     {"id":{"name":"room_test_xp","path":"rooms/room_test_xp/room_test_xp.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room10","path":"rooms/Room10/Room10.yy",},},
@@ -121,6 +115,7 @@
     {"roomId":{"name":"Room13","path":"rooms/Room13/Room13.yy",},},
     {"roomId":{"name":"Room14","path":"rooms/Room14/Room14.yy",},},
     {"roomId":{"name":"Room15","path":"rooms/Room15/Room15.yy",},},
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
@@ -136,6 +131,9 @@
 =======
     {"roomId":{"name":"room_test_xp","path":"rooms/room_test_xp/room_test_xp.yy",},},
 >>>>>>> Stashed changes
+=======
+    {"roomId":{"name":"room_test_xp","path":"rooms/room_test_xp/room_test_xp.yy",},},
+>>>>>>> parent of 885dfc9 (ewrwe)
   ],
   "templateType":"game",
   "TextureGroups":[
