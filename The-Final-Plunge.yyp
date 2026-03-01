@@ -115,6 +115,7 @@
     {"roomId":{"name":"Room13","path":"rooms/Room13/Room13.yy",},},
     {"roomId":{"name":"Room14","path":"rooms/Room14/Room14.yy",},},
     {"roomId":{"name":"Room15","path":"rooms/Room15/Room15.yy",},},
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -134,6 +135,9 @@
 =======
     {"roomId":{"name":"room_test_xp","path":"rooms/room_test_xp/room_test_xp.yy",},},
 >>>>>>> parent of 885dfc9 (ewrwe)
+=======
+    {"roomId":{"name":"room_test_xp","path":"rooms/room_test_xp/room_test_xp.yy",},},
+>>>>>>> Stashed changes
   ],
   "templateType":"game",
   "TextureGroups":[

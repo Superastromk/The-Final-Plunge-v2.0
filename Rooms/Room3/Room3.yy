@@ -10,6 +10,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"inst_7EB45FC9","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_192C6C37","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_7B012A65","path":"rooms/Room3/Room3.yy",},
@@ -66,6 +67,14 @@
   "isDnd":false,
   "layers":[
 >>>>>>> Stashed changes
+=======
+    {"name":"inst_11ACBE55","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_14528729","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_45BA7053","path":"rooms/Room3/Room3.yy",},
+  ],
+  "isDnd":false,
+  "layers":[
+>>>>>>> Stashed changes
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_63A8B294","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_63A8B294","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_tier1_idle","path":"sprites/spr_tier1_idle/spr_tier1_idle.yy",},"x":32.0,"y":480.0,},
       ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
@@ -78,6 +87,9 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
