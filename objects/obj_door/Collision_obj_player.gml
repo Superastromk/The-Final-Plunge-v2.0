@@ -1,10 +1,10 @@
-if (room == Room5) {
-	//boss level! check if boss is ded
-	if (!instance_exists(obj_boss)) {
-		show_message("Congratulations! You escaped the abyss!")
-		room_goto(room_tittle);
-	}
+if (room == Room15) {
+    //boss level! check if boss is dead
+    if (!instance_exists(obj_boss)) {
+        show_message("Congratulations! You escaped the abyss!")
+        room_goto(rm_victory); // Go to your victory/ending room
+    }
 } else {
-	//regular level - go to next room
-	room_goto_next();
+    //regular level - go to next room
+    room_goto_next();
 }
