@@ -51,3 +51,13 @@ function load_game() {
         show_debug_message("Level: " + string(global.level) + ", Tier: " + string(global.current_tier));
     }
 }
+// In a persistent object's Create Event
+if (!variable_global_exists("xp")) {
+    global.xp = 0;
+}
+if (!variable_global_exists("level")) {
+    global.level = 1;
+}
+if (!variable_global_exists("current_tier")) {
+    global.current_tier = 1;
+}

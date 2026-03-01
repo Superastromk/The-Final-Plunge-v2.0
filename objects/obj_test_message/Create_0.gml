@@ -1,0 +1,1 @@
+message_timer = 180; // 3 seconds
