@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player_attack",
-    "path":"sprites/spr_player_attack/spr_player_attack.yy",
+    "name":"spr_tier1_attack",
+    "path":"sprites/spr_tier1_attack/spr_tier1_attack.yy",
   },
   "spriteMaskId":null,
   "visible":true,
