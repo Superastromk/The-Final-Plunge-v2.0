@@ -7,6 +7,7 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"inst_121C4AAA","path":"rooms/Room10/Room10.yy",},
     {"name":"inst_1057420A","path":"rooms/Room10/Room10.yy",},
     {"name":"inst_50C613D9","path":"rooms/Room10/Room10.yy",},
@@ -50,6 +51,17 @@
   ],
   "isDnd":false,
   "layers":[
+=======
+    {"name":"inst_5825255C","path":"rooms/Room10/Room10.yy",},
+    {"name":"inst_52C6BE06","path":"rooms/Room10/Room10.yy",},
+    {"name":"inst_65ED3783","path":"rooms/Room10/Room10.yy",},
+    {"name":"inst_58729897","path":"rooms/Room10/Room10.yy",},
+    {"name":"inst_1E192BF6","path":"rooms/Room10/Room10.yy",},
+    {"name":"inst_2A8DFF0F","path":"rooms/Room10/Room10.yy",},
+  ],
+  "isDnd":false,
+  "layers":[
+>>>>>>> Stashed changes
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_10B6DD7C","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_10B6DD7C","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_tier1_idle","path":"sprites/spr_tier1_idle/spr_tier1_idle.yy",},"x":64.0,"y":416.0,},
       ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
@@ -62,6 +74,9 @@
         {"$GMRInstance":"v4","%Name":"inst_2A8DFF0F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2A8DFF0F","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":448.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_bg_cave","path":"sprites/spr_bg_cave/spr_bg_cave.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   ],
   "name":"Room10",

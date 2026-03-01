@@ -7,6 +7,7 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"inst_705FCE1","path":"rooms/Room11/Room11.yy",},
     {"name":"inst_4D51E814","path":"rooms/Room11/Room11.yy",},
     {"name":"inst_49DEEEBD","path":"rooms/Room11/Room11.yy",},
@@ -54,6 +55,21 @@
   ],
   "isDnd":false,
   "layers":[
+=======
+    {"name":"inst_390C244E","path":"rooms/Room11/Room11.yy",},
+    {"name":"inst_4DC8DD9C","path":"rooms/Room11/Room11.yy",},
+    {"name":"inst_7B2D2FD8","path":"rooms/Room11/Room11.yy",},
+    {"name":"inst_2C443196","path":"rooms/Room11/Room11.yy",},
+    {"name":"inst_28BCCD18","path":"rooms/Room11/Room11.yy",},
+    {"name":"inst_73C24406","path":"rooms/Room11/Room11.yy",},
+    {"name":"inst_CA563E1","path":"rooms/Room11/Room11.yy",},
+    {"name":"inst_548A6067","path":"rooms/Room11/Room11.yy",},
+    {"name":"inst_472ADC37","path":"rooms/Room11/Room11.yy",},
+    {"name":"inst_226AB43C","path":"rooms/Room11/Room11.yy",},
+  ],
+  "isDnd":false,
+  "layers":[
+>>>>>>> Stashed changes
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_5FA1708F","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_5FA1708F","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_tier1_idle","path":"sprites/spr_tier1_idle/spr_tier1_idle.yy",},"x":32.0,"y":160.0,},
       ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
@@ -70,6 +86,9 @@
         {"$GMRInstance":"v4","%Name":"inst_226AB43C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_226AB43C","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":-288.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_bg_cave","path":"sprites/spr_bg_cave/spr_bg_cave.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   ],
   "name":"Room11",
