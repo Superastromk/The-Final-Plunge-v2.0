@@ -121,6 +121,7 @@
     {"roomId":{"name":"Room13","path":"rooms/Room13/Room13.yy",},},
     {"roomId":{"name":"Room14","path":"rooms/Room14/Room14.yy",},},
     {"roomId":{"name":"Room15","path":"rooms/Room15/Room15.yy",},},
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     {"roomId":{"name":"room_test_xp","path":"rooms/room_test_xp/room_test_xp.yy",},},
 =======
@@ -128,6 +129,9 @@
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_gamemover","path":"rooms/rm_gamemover/rm_gamemover.yy",},},
 >>>>>>> bd052a3b3f1e8a2542d899dcfd1cb70da35e4a17
+=======
+    {"roomId":{"name":"room_test_xp","path":"rooms/room_test_xp/room_test_xp.yy",},},
+>>>>>>> Stashed changes
   ],
   "templateType":"game",
   "TextureGroups":[

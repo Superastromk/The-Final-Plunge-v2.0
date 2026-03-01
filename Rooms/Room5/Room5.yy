@@ -8,6 +8,7 @@
   "instanceCreationOrder":[
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"inst_2D88D63","path":"rooms/Room5/Room5.yy",},
     {"name":"inst_21D5FB79","path":"rooms/Room5/Room5.yy",},
     {"name":"inst_2A883863","path":"rooms/Room5/Room5.yy",},
@@ -48,6 +49,14 @@
   "isDnd":false,
   "layers":[
 >>>>>>> Stashed changes
+=======
+    {"name":"inst_17933EC6","path":"rooms/Room5/Room5.yy",},
+    {"name":"inst_13593D59","path":"rooms/Room5/Room5.yy",},
+    {"name":"inst_62D6ABE5","path":"rooms/Room5/Room5.yy",},
+  ],
+  "isDnd":false,
+  "layers":[
+>>>>>>> Stashed changes
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_1CA2330","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_1CA2330","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_tier1_idle","path":"sprites/spr_tier1_idle/spr_tier1_idle.yy",},"x":32.0,"y":128.0,},
       ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
@@ -58,6 +67,9 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_bg_cave","path":"sprites/spr_bg_cave/spr_bg_cave.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
