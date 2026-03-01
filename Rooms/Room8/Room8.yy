@@ -9,6 +9,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"inst_794E3256","path":"rooms/Room8/Room8.yy",},
     {"name":"inst_47C4F93","path":"rooms/Room8/Room8.yy",},
     {"name":"inst_5FC72759","path":"rooms/Room8/Room8.yy",},
@@ -62,6 +63,18 @@
   "isDnd":false,
   "layers":[
 >>>>>>> Stashed changes
+=======
+    {"name":"inst_1923DDD7","path":"rooms/Room8/Room8.yy",},
+    {"name":"inst_72C82F55","path":"rooms/Room8/Room8.yy",},
+    {"name":"inst_48AF3A0F","path":"rooms/Room8/Room8.yy",},
+    {"name":"inst_6B6ECF58","path":"rooms/Room8/Room8.yy",},
+    {"name":"inst_47B76A22","path":"rooms/Room8/Room8.yy",},
+    {"name":"inst_85BD574","path":"rooms/Room8/Room8.yy",},
+    {"name":"inst_248964C8","path":"rooms/Room8/Room8.yy",},
+  ],
+  "isDnd":false,
+  "layers":[
+>>>>>>> Stashed changes
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_7DE66DE9","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_7DE66DE9","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_tier1_idle","path":"sprites/spr_tier1_idle/spr_tier1_idle.yy",},"x":32.0,"y":384.0,},
       ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
@@ -76,6 +89,9 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

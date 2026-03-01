@@ -9,6 +9,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"inst_2DF298BA","path":"rooms/Room9/Room9.yy",},
     {"name":"inst_2AAB00C4","path":"rooms/Room9/Room9.yy",},
     {"name":"inst_78D7F2A6","path":"rooms/Room9/Room9.yy",},
@@ -58,6 +59,16 @@
   "isDnd":false,
   "layers":[
 >>>>>>> Stashed changes
+=======
+    {"name":"inst_1BD45F92","path":"rooms/Room9/Room9.yy",},
+    {"name":"inst_55CEDC7F","path":"rooms/Room9/Room9.yy",},
+    {"name":"inst_3EF98A2D","path":"rooms/Room9/Room9.yy",},
+    {"name":"inst_544B8800","path":"rooms/Room9/Room9.yy",},
+    {"name":"inst_4EA3C9E6","path":"rooms/Room9/Room9.yy",},
+  ],
+  "isDnd":false,
+  "layers":[
+>>>>>>> Stashed changes
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_2794F35F","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2794F35F","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_tier1_idle","path":"sprites/spr_tier1_idle/spr_tier1_idle.yy",},"x":32.0,"y":288.0,},
       ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
@@ -70,6 +81,9 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

@@ -9,6 +9,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"inst_36C8B48B","path":"rooms/Room14/Room14.yy",},
     {"name":"inst_6428832D","path":"rooms/Room14/Room14.yy",},
     {"name":"inst_48D74852","path":"rooms/Room14/Room14.yy",},
@@ -52,6 +53,14 @@
   "isDnd":false,
   "layers":[
 >>>>>>> Stashed changes
+=======
+    {"name":"inst_795C557","path":"rooms/Room14/Room14.yy",},
+    {"name":"inst_39DB531","path":"rooms/Room14/Room14.yy",},
+    {"name":"inst_692D02F1","path":"rooms/Room14/Room14.yy",},
+  ],
+  "isDnd":false,
+  "layers":[
+>>>>>>> Stashed changes
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_17651940","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":true,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_17651940","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_spike","path":"sprites/spr_spike/spr_spike.yy",},"x":320.0,"y":448.0,},
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_5ACAFDE1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_5ACAFDE1","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_xp_orb","path":"sprites/spr_xp_orb/spr_xp_orb.yy",},"x":512.0,"y":416.0,},
@@ -64,6 +73,9 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
