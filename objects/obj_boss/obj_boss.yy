@@ -32,12 +32,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_boss",
-    "path":"sprites/spr_boss/spr_boss.yy",
+    "name":"spr_boss_idle",
+    "path":"sprites/spr_boss_idle/spr_boss_idle.yy",
   },
   "spriteMaskId":{
-    "name":"spr_boss",
-    "path":"sprites/spr_boss/spr_boss.yy",
+    "name":"spr_boss_idle",
+    "path":"sprites/spr_boss_idle/spr_boss_idle.yy",
   },
   "visible":true,
 }
